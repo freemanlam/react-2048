@@ -300,6 +300,7 @@ const App: FC = () => {
             src="https://img.shields.io/github/stars/code-with-ahsan/ng-2048?style=social"
             alt="star the repo"
           />
+          for ng-2048!
         </a>
         <canvas className="w-full h-full absolute z-10"></canvas>
 
@@ -388,6 +389,18 @@ const App: FC = () => {
           >
             Code With Ahsan
           </a>
+          <p>
+            This is react port of{' '}
+            <a
+              href="https://github.com/code-with-ahsan/ng-2048"
+              target="_blank"
+              rel="noreferrer"
+              className="underline underline-offset-2"
+            >
+              ng-2048
+            </a>
+            . Please support original version :)
+          </p>
         </div>
 
         <div
